@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
 
-public class TrabalhoMJV {
+public class PathFiles {
 
     public static void main(String[] args) throws IOException {
 
