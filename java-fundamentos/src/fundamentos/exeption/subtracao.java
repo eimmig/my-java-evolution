@@ -26,8 +26,7 @@ public class subtracao {
         resultado = num1 - num2;
         System.out.println(resultado);
     }
-    public static int random_int(int Min, int Max)
-    {
+    public static int random_int(int Min, int Max){
         return (int) (Math.random()*(Max-Min))+Min;
     }
 }
