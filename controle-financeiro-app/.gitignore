@@ -1,0 +1,6 @@
+.idea
+out
+bin
+controle-financeiro-app.iml
+*.classpath
+target
