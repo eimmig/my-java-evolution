@@ -1,3 +1,5 @@
+package PrimeiraAula;
+
 import java.util.Scanner;
 
 public class Segundo {

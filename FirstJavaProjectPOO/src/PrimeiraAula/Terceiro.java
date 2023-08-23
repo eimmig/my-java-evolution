@@ -1,3 +1,5 @@
+package PrimeiraAula;
+
 import java.util.Scanner;
 
 import static javax.swing.JOptionPane.showInputDialog;
