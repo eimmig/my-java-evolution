@@ -1,4 +1,4 @@
-package TerceiraAula;
+package QuartaAula;
 
 public class IntegerSet {
     private boolean[] set;
